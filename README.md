@@ -1,5 +1,5 @@
 # Focus OS Pro: Ultimate CBSE Command Center
-A high-performance, unified study dashboard engineered for Class 10 Board Exam preparation.
+A high-performance, unified study dashboard engineered for Class 10 Board Exam preparation (2026-27).
 
 ## 🚀 Purpose
 This project was designed to solve the problem of "tab-fatigue" and fragmented study tools. I built a single-interface "OS" that combines time management, accountability, and active recall.
